@@ -183,4 +183,4 @@ or photographers seeking efficient and creative photo editing capabilities.
 ![Alt text](DX.png)
 
 ## Result:
-Write your result
+The program is executed succesfully
